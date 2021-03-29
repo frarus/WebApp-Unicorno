@@ -1,0 +1,29 @@
+
+#sidebarMenu .list-group-item.active{
+    background-color: #28A755;
+    border-color: #28A755;
+}
+
+
+#sidebarMenu a:hover{
+    background-color: #3be495;
+}
+#sidebarMenu a:active{
+    background-color:  #28A755;
+    color:white
+}
+
+
+.list-group-item{
+    background-color: transparent;
+}
+
+
+#add {
+    width:5%;
+    position:fixed;
+    bottom:0px;
+    right:0px;
+    margin:0px;
+    
+    }
